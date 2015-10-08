@@ -1,0 +1,4 @@
+User.first
+first_user = User.first
+first_user.notes
+exit
